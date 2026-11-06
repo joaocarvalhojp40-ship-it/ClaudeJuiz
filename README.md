@@ -16,7 +16,7 @@ Complexidade de execução, escassez no mercado, demanda real, diferencial, viab
 No Claude Code:
 
 ```
-/plugin marketplace add SEU-USUARIO/ClaudeJuiz
+/plugin marketplace add joaocarvalhojp40-ship-it/ClaudeJuiz
 /plugin install claude-juiz@claudejuiz
 ```
 
